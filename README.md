@@ -1,19 +1,19 @@
 <!-- BEGIN VISITOR COUNTER 
 <a href="https://github.com/chenyuancqu/chenyuancqu" target=" blank">
-<img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page id=ThreadLocal.ThreadLocal" alt="visitor badge"/>
 </a>-->
 <!-- END VISITOR COUNTER -->
 Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
   <h2> ✨  研究方向: </h2>
   <ul>
-    <li>移动边缘计算</li>
-    <li>计算卸载</li>
-    <li>多智能体强化学习</li>
-    <li>车载边缘计算网络</li>
+    <li>边云-模型分割</li>
+    <li>边云-内容缓存</li>
+    <li>边云-缺陷检测</li>
+    <li>强化学习</li>
 </ul>
   <strong>🌱 个人网站: </strong>
-    <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a>   <br>
+    <a href="https://ThreadLocal.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://ThreadLocal.github.io</a>   <br>
 </p>
 
 
@@ -28,8 +28,8 @@ Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getlo
 <br>
 <!--star数量-->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&theme=transparent" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuancqu&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThreadLocal&show_icons=true&theme=transparent" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThreadLocal&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
 
