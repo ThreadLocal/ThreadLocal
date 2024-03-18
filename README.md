@@ -35,17 +35,17 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 
 <h2> 🕒  Recent Research </h2>
 
-<div><img src='image/system_model.jpg' alt="DT-VEC" width="50%" class="center"></div>
+<div><img src='image/FGMP.jpg' alt="DT-VEC" width="50%" class="center"></div>
 <br>
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
-  Competition and Cooperative Computation Offloading for Intensive Heterogeneous Tasks in Vehicular Edge Computing Networks <br>
-  <strong>Yuan Chen</strong>, Xiuhua Li*, Guozeng Xu and Ling Liu, Xiaofei Wang, and Victor C. M. Leung <br>
+  Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks <br>
+  <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan and Qiang He, Xiaofei Wang, and Victor C. M. Leung <br>
 
 
   <ul>
-    <li>We investigate the problem of competitive and cooperative computation offloading for intensive heterogeneous tasks with RSU or TaV to effectively reduce the task execution latency and increase the task completion rate under VEC networks.</li>
+    <li>We present a fine-grained model partitioning mechanism that supports distributed DNN inference with the collaboration of ESs and IoT devices, for significantly reducing the DNN inference delay with specific delay constraints. We formulate the optimization problem as a Markov Decision Process (MDP) with the objective to maximize the long-term discounted cumulative reward of distributed DNN inference.</li>
     <li>We propose a multi-agent reinforcement learning algorithm based on C3O (MARC3O) to intelligently determine the computation offloading policy for each vehicle according to the state of VEC networks to improve task completion rate while minimizing task execution latency.<br></li>
-    <li>We evaluate the proposed algorithm through extensive experiments. Simulation results show that the proposed algorithm can significantly reduce task execution latency and improve task completion rates.<br></li>
+    <li>We evaluate the performance of the proposed approach through extensive experiments conducted on widely-used datasets in MEC networks. Simulation results show that the proposed approach can significantly reduce the total inference delay, edge inference delay and local inference delay.<br></li>
   </ul>
 </p>
 
