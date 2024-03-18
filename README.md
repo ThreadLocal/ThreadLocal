@@ -38,7 +38,7 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 
 <br>
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
-  1.Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks <br>
+  <strong>1.Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks</strong> <br>
   <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan and Qiang He, Xiaofei Wang, and Victor C. M. Leung <br>
 <div><img src='FGMP.jpg' alt="DT-VEC" width="50%" class="center"></div>
 
