@@ -35,7 +35,7 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 
 <h2> 🕒  Recent Research </h2>
 
-<div><img src='image/FGMP.jpg' alt="DT-VEC" width="50%" class="center"></div>
+<div><img src='FGMP.jpg' alt="DT-VEC" width="50%" class="center"></div>
 <br>
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
   Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks <br>
@@ -44,7 +44,8 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 
   <ul>
     <li>We present a fine-grained model partitioning mechanism that supports distributed DNN inference with the collaboration of ESs and IoT devices, for significantly reducing the DNN inference delay with specific delay constraints. We formulate the optimization problem as a Markov Decision Process (MDP) with the objective to maximize the long-term discounted cumulative reward of distributed DNN inference.</li>
-    <li>We propose a multi-agent reinforcement learning algorithm based on C3O (MARC3O) to intelligently determine the computation offloading policy for each vehicle according to the state of VEC networks to improve task completion rate while minimizing task execution latency.<br></li>
+    <li>We propose a novel multi-task learning based A3C approach to search for an appropriate fine-grained model partitioning policy. Specifically, we employ soft parameter sharing to integrate the shared layers
+of both the actor-network and critic-network, and expand the output layer into multiple branches to determine the fine-grained model partitioning policy for each individual DNN block. It can significantly reduce the action space of DRL agents, thereby reducing the training time of the proposed approach.<br></li>
     <li>We evaluate the performance of the proposed approach through extensive experiments conducted on widely-used datasets in MEC networks. Simulation results show that the proposed approach can significantly reduce the total inference delay, edge inference delay and local inference delay.<br></li>
   </ul>
 </p>
