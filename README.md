@@ -46,7 +46,6 @@ of both the actor-network and critic-network, and expand the output layer into m
 </p>
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
   <strong>2.Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks</strong> <br>
-  <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan and Qiang He, Xiaofei Wang, and Victor C. M. Leung <br>
 <div><img src='joint.png' alt="DT-VEC" width="50%" class="center"></div>
 
   <ul>
