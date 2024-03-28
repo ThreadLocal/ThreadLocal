@@ -18,11 +18,6 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 
 
 
-
-
-
-
-
 <h2> 🌟  Staring & Language </h2>
 <br>
 <!--star数量-->
@@ -39,7 +34,7 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
   <strong>1.Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks</strong> <br>
   <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan and Qiang He, Xiaofei Wang, and Victor C. M. Leung <br>
-<div><img src='FGMP.jpg' alt="DT-VEC" width="50%" class="center"></div>
+<div><img src='FGMP.pdf' alt="DT-VEC" width="50%" class="center"></div>
 
   <ul>
     <li>We present a fine-grained model partitioning mechanism that supports distributed DNN inference with the collaboration of ESs and IoT devices, for significantly reducing the DNN inference delay with specific delay constraints. We formulate the optimization problem as a Markov Decision Process (MDP) with the objective to maximize the long-term discounted cumulative reward of distributed DNN inference.</li>
