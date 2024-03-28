@@ -7,10 +7,9 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
   <h2> ✨  研究方向: </h2>
   <ul>
-    <li>边云-模型分割</li>
-    <li>边云-内容缓存</li>
-    <li>边云-缺陷检测</li>
-    <li>强化学习</li>
+    <li>边缘智能-模型分割</li>
+    <li>边缘智能-内容缓存</li>
+    <li>边缘智能-强化学习</li>
 </ul>
   <strong>🌱 个人网站: </strong>
     <a href="https://ThreadLocal.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://ThreadLocal.github.io</a>   <br>
