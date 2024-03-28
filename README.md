@@ -42,8 +42,19 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 of both the actor-network and critic-network, and expand the output layer into multiple branches to determine the fine-grained model partitioning policy for each individual DNN block. It can significantly reduce the action space of DRL agents, thereby reducing the training time of the proposed approach.<br></li>
     <li>We evaluate the performance of the proposed approach through extensive experiments conducted on widely-used datasets in MEC networks. Simulation results show that the proposed approach can significantly reduce the total inference delay, edge inference delay and local inference delay.<br></li>
   </ul>
+  
 </p>
+<p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
+  <strong>2.Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks</strong> <br>
+  <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan and Qiang He, Xiaofei Wang, and Victor C. M. Leung <br>
+<div><img src='joint.png' alt="DT-VEC" width="50%" class="center"></div>
 
+  <ul>
+    <li>We investigate the joint DNN partition and compression in edge-cloud networks to achieve a trade-off between the latency and accuracy of collaborative DNN inference.</li>
+    <li>We propose a dual-agent DRL algorithm CPCDRL. The two agents collaborate to autonomously determine the location of partition point and the corresponding compression rates.<br></li>
+    <li>We conduct extensive simulation experiments to evaluate the performance of the proposed algorithm. The results demonstrate that our proposed algorithm significantly reduces inference latency compared to baseline schemes by 10% to 67% while incurring minimal accuracy loss.<br></li>
+  </ul>
+</p>
 
 
 <h2>🧑‍💻  Technology Stack</h2> 
